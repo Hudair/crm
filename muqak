@@ -479,7 +479,7 @@ INSERT INTO `tbl_config` (`config_key`, `value`) VALUES
 	('contact_person', 'Mohammed Hudair'),
 	('contract_expiration_reminder', ''),
 	('copyright_name', 'Uniquecoder'),
-	('copyright_url', 'https://NullJungle.com'),
+	('copyright_url', 'https://arabcode.online'),
 	('country', '0'),
 	('cron_key', '34WI2L12L87I1A65M90M9A42N41D08A26I'),
 	('currency_position', '1'),
