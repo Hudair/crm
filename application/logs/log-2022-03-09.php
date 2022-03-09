@@ -445,3 +445,4 @@ ERROR - 2022-03-09 06:11:25 --> Query error: Expression #1 of SELECT list is not
 FROM `tbl_locales`
 GROUP BY `language`
 ERROR - 2022-03-09 06:11:25 --> Severity: error --> Exception: Call to a member function result() on bool D:\laragon\www\ziscoerp4\application\models\Settings_model.php 52
+ERROR - 2022-03-09 03:38:58 --> 404 Page Not Found: /index
